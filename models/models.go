@@ -14,7 +14,6 @@ import (
 
 	mysql "github.com/go-sql-driver/mysql"
 	"github.com/gophish/gophish/auth"
-	"github.com/gophish/gophish/config"
 
 	log "github.com/gophish/gophish/logger"
 	"github.com/jinzhu/gorm"
